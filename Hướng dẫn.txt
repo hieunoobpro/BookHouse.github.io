@@ -1,0 +1,15 @@
+1. cài xammp
+2. Mở localhost trong xammp
+3. Tạo database có tên book-store
+4. Chọn nhập file sql
+5. Vào folder db-> chọn file "book_store.sql"
+Vậy là xong bước tạo database
+
+* Chạy web
+1. Tìm thư mục xammp trên ổ C của máy tính
+2. Cho source code vào file htdoc ( tất cả file và folder a gửi)
+3. Mở xamp lên 
+  + Hàng apache bấm start trước
+  + Hàng MySQL bấm start 
+  + quay lại hàng Apache bấm Admin là web sẽ được chạy
+
